@@ -11,8 +11,7 @@ class ViewController: NSViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+        print("zuoleUI")
     }
 
     override var representedObject: Any? {
